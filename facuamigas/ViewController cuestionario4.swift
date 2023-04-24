@@ -8,7 +8,7 @@
 import UIKit
 
 class ViewController_cuestionario4: UIViewController {
-    var imagen_alerta = ["alerta1","alerta2"]
+    var imagen_alerta = ["blanco","alerta1","alerta2"]
     var puntos=0
     var indice_alerta = 0
     
