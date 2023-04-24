@@ -13,6 +13,10 @@
 		FDD2B06229F6E38E00863EB0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FDD2B06029F6E38E00863EB0 /* Main.storyboard */; };
 		FDD2B06429F6E38F00863EB0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FDD2B06329F6E38F00863EB0 /* Assets.xcassets */; };
 		FDD2B06729F6E38F00863EB0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FDD2B06529F6E38F00863EB0 /* LaunchScreen.storyboard */; };
+		FDD2B08F29F7046C00863EB0 /* ViewController cuestionario1.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDD2B08E29F7046C00863EB0 /* ViewController cuestionario1.swift */; };
+		FDD2B09129F718E300863EB0 /* ViewController cuestionario2.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDD2B09029F718E300863EB0 /* ViewController cuestionario2.swift */; };
+		FDD2B09329F719F100863EB0 /* ViewControllercuestionario3.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDD2B09229F719F100863EB0 /* ViewControllercuestionario3.swift */; };
+		FDD2B09529F71A0900863EB0 /* ViewController cuestionario4.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDD2B09429F71A0900863EB0 /* ViewController cuestionario4.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +28,10 @@
 		FDD2B06329F6E38F00863EB0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FDD2B06629F6E38F00863EB0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FDD2B06829F6E38F00863EB0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FDD2B08E29F7046C00863EB0 /* ViewController cuestionario1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ViewController cuestionario1.swift"; sourceTree = "<group>"; };
+		FDD2B09029F718E300863EB0 /* ViewController cuestionario2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ViewController cuestionario2.swift"; sourceTree = "<group>"; };
+		FDD2B09229F719F100863EB0 /* ViewControllercuestionario3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllercuestionario3.swift; sourceTree = "<group>"; };
+		FDD2B09429F71A0900863EB0 /* ViewController cuestionario4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ViewController cuestionario4.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +67,10 @@
 				FDD2B05A29F6E38E00863EB0 /* AppDelegate.swift */,
 				FDD2B05C29F6E38E00863EB0 /* SceneDelegate.swift */,
 				FDD2B05E29F6E38E00863EB0 /* ViewController.swift */,
+				FDD2B08E29F7046C00863EB0 /* ViewController cuestionario1.swift */,
+				FDD2B09029F718E300863EB0 /* ViewController cuestionario2.swift */,
+				FDD2B09229F719F100863EB0 /* ViewControllercuestionario3.swift */,
+				FDD2B09429F71A0900863EB0 /* ViewController cuestionario4.swift */,
 				FDD2B06029F6E38E00863EB0 /* Main.storyboard */,
 				FDD2B06329F6E38F00863EB0 /* Assets.xcassets */,
 				FDD2B06529F6E38F00863EB0 /* LaunchScreen.storyboard */,
@@ -138,9 +150,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FDD2B09529F71A0900863EB0 /* ViewController cuestionario4.swift in Sources */,
 				FDD2B05F29F6E38E00863EB0 /* ViewController.swift in Sources */,
 				FDD2B05B29F6E38E00863EB0 /* AppDelegate.swift in Sources */,
+				FDD2B09129F718E300863EB0 /* ViewController cuestionario2.swift in Sources */,
+				FDD2B08F29F7046C00863EB0 /* ViewController cuestionario1.swift in Sources */,
 				FDD2B05D29F6E38E00863EB0 /* SceneDelegate.swift in Sources */,
+				FDD2B09329F719F100863EB0 /* ViewControllercuestionario3.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
